@@ -1,8 +1,10 @@
 # Hi there 👋
 
-## Profile
+I’m a full stack developer with more than 10 years of experience in academic research and data management.
 
-I’m a full stack developer with more than 10 years of experience in academic research and data management. After finding an affinity and passion for development, I completed a 9-week intensive web development bootcamp with Le Wagon Amsterdam. I bring with me deep experience in managing and organizing complex data as well as a proven track record of successful team collaboration. While I am continuing to upskill through a solo project, I am seeking full-time employment as a full stack developer.
+## How I learn
+
+![Codewars](https://github.r2v.ch/codewars?user=caroline-jeffra&top_languages=true&hide_clan=true&theme=solarized_dark)
 
 ## What I've been up to recently
 
