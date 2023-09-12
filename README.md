@@ -2,9 +2,9 @@
 
 I’m a full stack developer with more than 10 years of experience in academic research and data management.
 
-## How I learn
+## What I speak
 
-![Codewars](https://github.r2v.ch/codewars?user=caroline-jeffra&top_languages=true&hide_clan=true&theme=solarized_dark)
+[![Caroline Jeffra's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=caroline-jeffra&&theme=algolia&show_icons=true)](https://github.com/caroline-jeffra)
 
 ## What I've been up to recently
 
@@ -16,6 +16,6 @@ I’m a full stack developer with more than 10 years of experience in academic r
 5. 🎉 Merged PR [#120](https://github.com/caroline-jeffra/jamfinder/pull/120) in [caroline-jeffra/jamfinder](https://github.com/caroline-jeffra/jamfinder)
 <!--END_SECTION:activity-->
 
-## What I speak
+## How I learn
 
-[![Caroline Jeffra's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=caroline-jeffra&&theme=algolia&show_icons=true)](https://github.com/caroline-jeffra)
+![Codewars](https://github.r2v.ch/codewars?user=caroline-jeffra&top_languages=true&hide_clan=true&theme=solarized_dark)
