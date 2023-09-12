@@ -14,5 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## What I've been up to recently
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
