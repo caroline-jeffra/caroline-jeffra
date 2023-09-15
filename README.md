@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I’m a full stack developer with more than 10 years of experience in academic research and data management.
+I’m a backend developer with more than 10 years of experience in academic research and data management.
 
 ## What I speak
 <p align="left">
