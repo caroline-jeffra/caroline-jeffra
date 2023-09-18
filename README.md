@@ -22,11 +22,11 @@ I’m a backend developer with more than 10 years of experience in academic rese
 ## What I've been up to recently
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#126](https://github.com/caroline-jeffra/jamfinder/pull/126) in [caroline-jeffra/jamfinder](https://github.com/caroline-jeffra/jamfinder)
-2. 🎉 Merged PR [#125](https://github.com/caroline-jeffra/jamfinder/pull/125) in [caroline-jeffra/jamfinder](https://github.com/caroline-jeffra/jamfinder)
-3. 🎉 Merged PR [#124](https://github.com/caroline-jeffra/jamfinder/pull/124) in [caroline-jeffra/jamfinder](https://github.com/caroline-jeffra/jamfinder)
-4. 🎉 Merged PR [#123](https://github.com/caroline-jeffra/jamfinder/pull/123) in [caroline-jeffra/jamfinder](https://github.com/caroline-jeffra/jamfinder)
-5. 💪 Opened PR [#122](https://github.com/caroline-jeffra/jamfinder/pull/122) in [caroline-jeffra/jamfinder](https://github.com/caroline-jeffra/jamfinder)
+1. 💪 Opened PR [#127](https://github.com/caroline-jeffra/jamfinder/pull/127) in [caroline-jeffra/jamfinder](https://github.com/caroline-jeffra/jamfinder)
+2. 💪 Opened PR [#126](https://github.com/caroline-jeffra/jamfinder/pull/126) in [caroline-jeffra/jamfinder](https://github.com/caroline-jeffra/jamfinder)
+3. 🎉 Merged PR [#125](https://github.com/caroline-jeffra/jamfinder/pull/125) in [caroline-jeffra/jamfinder](https://github.com/caroline-jeffra/jamfinder)
+4. 🎉 Merged PR [#124](https://github.com/caroline-jeffra/jamfinder/pull/124) in [caroline-jeffra/jamfinder](https://github.com/caroline-jeffra/jamfinder)
+5. 🎉 Merged PR [#123](https://github.com/caroline-jeffra/jamfinder/pull/123) in [caroline-jeffra/jamfinder](https://github.com/caroline-jeffra/jamfinder)
 <!--END_SECTION:activity-->
 
 ## How I learn
