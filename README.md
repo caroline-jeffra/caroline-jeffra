@@ -23,11 +23,11 @@ I’m a backend developer with more than 10 years of experience in academic rese
 ## What I've been up to recently
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#126](https://github.com/caroline-jeffra/jamfinder/pull/126) in [caroline-jeffra/jamfinder](https://github.com/caroline-jeffra/jamfinder)
-2. 🎉 Merged PR [#127](https://github.com/caroline-jeffra/jamfinder/pull/127) in [caroline-jeffra/jamfinder](https://github.com/caroline-jeffra/jamfinder)
-3. 💪 Opened PR [#127](https://github.com/caroline-jeffra/jamfinder/pull/127) in [caroline-jeffra/jamfinder](https://github.com/caroline-jeffra/jamfinder)
-4. 💪 Opened PR [#126](https://github.com/caroline-jeffra/jamfinder/pull/126) in [caroline-jeffra/jamfinder](https://github.com/caroline-jeffra/jamfinder)
-5. 🎉 Merged PR [#125](https://github.com/caroline-jeffra/jamfinder/pull/125) in [caroline-jeffra/jamfinder](https://github.com/caroline-jeffra/jamfinder)
+1. ❌ Closed PR [#1](https://github.com/caroline-jeffra/learnCSharp/pull/1) in [caroline-jeffra/learnCSharp](https://github.com/caroline-jeffra/learnCSharp)
+2. 💪 Opened PR [#1](https://github.com/caroline-jeffra/learnCSharp/pull/1) in [caroline-jeffra/learnCSharp](https://github.com/caroline-jeffra/learnCSharp)
+3. 🎉 Merged PR [#126](https://github.com/caroline-jeffra/jamfinder/pull/126) in [caroline-jeffra/jamfinder](https://github.com/caroline-jeffra/jamfinder)
+4. 🎉 Merged PR [#127](https://github.com/caroline-jeffra/jamfinder/pull/127) in [caroline-jeffra/jamfinder](https://github.com/caroline-jeffra/jamfinder)
+5. 💪 Opened PR [#127](https://github.com/caroline-jeffra/jamfinder/pull/127) in [caroline-jeffra/jamfinder](https://github.com/caroline-jeffra/jamfinder)
 <!--END_SECTION:activity-->
 
 ## How I learn
