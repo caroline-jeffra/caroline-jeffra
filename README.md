@@ -16,6 +16,4 @@ A developer-tooling plugin that persists an AI coding agent's working context in
 
 ## Working with
 
-Python · Bash · GCP (Cloud SQL, Pub/Sub, GKE) · Docker · Kubernetes · GitLab CI/CD · PostgreSQL · MySQL · Linux · Cloudflare · Datadog
-
-Also fluent in PHP/Laravel, JavaScript/TypeScript and Vue, which is where most of the last three years went.
+Python (FastAPI, Typer, SQLAlchemy 2.0, Alembic, pytest, strict mypy) · PHP/Laravel · Bash · GCP · Docker · Kubernetes · GitLab CI/CD · GitHub Actions · PostgreSQL · MySQL · Redis · Prometheus/Grafana/Loki · Linux
